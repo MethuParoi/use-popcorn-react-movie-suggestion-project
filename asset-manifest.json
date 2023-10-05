@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/use-popcorn-react-movie-suggestion-project/static/css/main.3e5f6485.css",
+    "main.js": "/use-popcorn-react-movie-suggestion-project/static/js/main.d8f79270.js",
+    "index.html": "/use-popcorn-react-movie-suggestion-project/index.html",
+    "main.3e5f6485.css.map": "/use-popcorn-react-movie-suggestion-project/static/css/main.3e5f6485.css.map",
+    "main.d8f79270.js.map": "/use-popcorn-react-movie-suggestion-project/static/js/main.d8f79270.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e5f6485.css",
+    "static/js/main.d8f79270.js"
+  ]
+}
