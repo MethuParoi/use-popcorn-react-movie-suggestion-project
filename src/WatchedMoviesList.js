@@ -13,7 +13,6 @@ export default function WatchedMoviesList({ watched }) {
             fontWeight: 400,
             fontSize: "20px",
             color: "white",
-            paddingLeft: "55px",
             paddingTop: "20px",
           }}
         >
