@@ -2,7 +2,7 @@ import WatchedMovie from "./WatchedMovie";
 
 export default function WatchedMoviesList({ watched }) {
   return (
-    <ul className="list">
+    <ul className="watched-list list">
       {watched.map((movie) => (
         <WatchedMovie movie={movie} key={movie.imdbID} />
       ))}
@@ -14,6 +14,7 @@ export default function WatchedMoviesList({ watched }) {
             fontSize: "20px",
             color: "white",
             paddingTop: "20px",
+            paddingRight: "80px",
           }}
         >
           <span>📽️</span> Please add watched movies <span>🍿</span>
